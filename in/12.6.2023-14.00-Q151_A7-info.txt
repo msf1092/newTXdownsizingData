@@ -1,0 +1,31 @@
+Asetustiedosto-avoin	
+	
+Työnumero:	151/2022
+Tilaaja:	Väylävirasto
+Kohde:	Ulvila, Haistilan asema
+Koekappaleen nimi:	Q151_A7
+Piste:	S010-6,0
+Syvyys [m]:	6,36-6,48
+Korkeustaso [m]:	-
+Päivämäärä:	12.6.2023
+	
+Raami:	R3
+Nousu/askel [mm]:	0,0003213
+Voima-anturi:	
+	
+Alkukorkeus[mm]	111,530000
+Alkuhalkaisija[mm]	51,000000
+Massa[g]	391,990000
+Korkeuden muutos[mm]	1,760000
+Poistunut vesi[ml]	20,900000
+Sellipaine[kPa]	91,000000
+Alkupystyjännitys[kPa]	0,300000
+Voimakerroin	-50889,000000
+Jäykkyys[mm/kg]	0,000050
+Nousu/askel[mm]	0,000321
+Askellussiirtymä[mm]	19,348365
+Alkupinta-ala[cm2]	20,428208
+Konsolidoitu korkeus[mm]	109,770000
+Alkutilavuus[ml]	227,835809
+Konsolidoitu tilavuus[ml]	206,935809
+Konsolidoitu pinta-ala[cm2]	18,851764
